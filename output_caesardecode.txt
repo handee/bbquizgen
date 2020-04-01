@@ -1,0 +1,48 @@
+FIB	"EJTDPSE JT QSFUUZ HPPE GPS HSPVQ DIBU." is encoded with a Caesar cipher. What letter shift was used (answer should be a number between 1 and 25)?	1	25
+FIB	"FKUEQTF KU RTGVVA IQQF HQT ITQWR EJCV." is encoded with a Caesar cipher. What letter shift was used (answer should be a number between 1 and 25)?	2	24
+FIB	"GLVFRUG LV SUHWWB JRRG IRU JURXS FKDW." is encoded with a Caesar cipher. What letter shift was used (answer should be a number between 1 and 25)?	3	23
+FIB	"HMWGSVH MW TVIXXC KSSH JSV KVSYT GLEX." is encoded with a Caesar cipher. What letter shift was used (answer should be a number between 1 and 25)?	4	22
+FIB	"INXHTWI NX UWJYYD LTTI KTW LWTZU HMFY." is encoded with a Caesar cipher. What letter shift was used (answer should be a number between 1 and 25)?	5	21
+FIB	"JOYIUXJ OY VXKZZE MUUJ LUX MXUAV INGZ." is encoded with a Caesar cipher. What letter shift was used (answer should be a number between 1 and 25)?	6	20
+FIB	"KPZJVYK PZ WYLAAF NVVK MVY NYVBW JOHA." is encoded with a Caesar cipher. What letter shift was used (answer should be a number between 1 and 25)?	7	19
+FIB	"LQAKWZL QA XZMBBG OWWL NWZ OZWCX KPIB." is encoded with a Caesar cipher. What letter shift was used (answer should be a number between 1 and 25)?	8	18
+FIB	"MRBLXAM RB YANCCH PXXM OXA PAXDY LQJC." is encoded with a Caesar cipher. What letter shift was used (answer should be a number between 1 and 25)?	9	17
+FIB	"NSCMYBN SC ZBODDI QYYN PYB QBYEZ MRKD." is encoded with a Caesar cipher. What letter shift was used (answer should be a number between 1 and 25)?	10	16
+FIB	"OTDNZCO TD ACPEEJ RZZO QZC RCZFA NSLE." is encoded with a Caesar cipher. What letter shift was used (answer should be a number between 1 and 25)?	11	15
+FIB	"PUEOADP UE BDQFFK SAAP RAD SDAGB OTMF." is encoded with a Caesar cipher. What letter shift was used (answer should be a number between 1 and 25)?	12	14
+FIB	"QVFPBEQ VF CERGGL TBBQ SBE TEBHC PUNG." is encoded with a Caesar cipher. What letter shift was used (answer should be a number between 1 and 25)?	13	13
+FIB	"RWGQCFR WG DFSHHM UCCR TCF UFCID QVOH." is encoded with a Caesar cipher. What letter shift was used (answer should be a number between 1 and 25)?	14	12
+FIB	"SXHRDGS XH EGTIIN VDDS UDG VGDJE RWPI." is encoded with a Caesar cipher. What letter shift was used (answer should be a number between 1 and 25)?	15	11
+FIB	"TYISEHT YI FHUJJO WEET VEH WHEKF SXQJ." is encoded with a Caesar cipher. What letter shift was used (answer should be a number between 1 and 25)?	16	10
+FIB	"UZJTFIU ZJ GIVKKP XFFU WFI XIFLG TYRK." is encoded with a Caesar cipher. What letter shift was used (answer should be a number between 1 and 25)?	17	9
+FIB	"VAKUGJV AK HJWLLQ YGGV XGJ YJGMH UZSL." is encoded with a Caesar cipher. What letter shift was used (answer should be a number between 1 and 25)?	18	8
+FIB	"WBLVHKW BL IKXMMR ZHHW YHK ZKHNI VATM." is encoded with a Caesar cipher. What letter shift was used (answer should be a number between 1 and 25)?	19	7
+FIB	"XCMWILX CM JLYNNS AIIX ZIL ALIOJ WBUN." is encoded with a Caesar cipher. What letter shift was used (answer should be a number between 1 and 25)?	20	6
+FIB	"YDNXJMY DN KMZOOT BJJY AJM BMJPK XCVO." is encoded with a Caesar cipher. What letter shift was used (answer should be a number between 1 and 25)?	21	5
+FIB	"ZEOYKNZ EO LNAPPU CKKZ BKN CNKQL YDWP." is encoded with a Caesar cipher. What letter shift was used (answer should be a number between 1 and 25)?	22	4
+FIB	"AFPZLOA FP MOBQQV DLLA CLO DOLRM ZEXQ." is encoded with a Caesar cipher. What letter shift was used (answer should be a number between 1 and 25)?	23	3
+FIB	"BGQAMPB GQ NPCRRW EMMB DMP EPMSN AFYR." is encoded with a Caesar cipher. What letter shift was used (answer should be a number between 1 and 25)?	24	2
+FIB	"CMBDLCPBSE EJTDVTTJPO CPBSET BSF OPU WFSZ QPQVMBS XJUI UIF TUVEFOUT." is encoded with a Caesar cipher. What letter shift was used (answer should be a number between 1 and 25)?	1	25
+FIB	"DNCEMDQCTF FKUEWUUKQP DQCTFU CTG PQV XGTA RQRWNCT YKVJ VJG UVWFGPVU." is encoded with a Caesar cipher. What letter shift was used (answer should be a number between 1 and 25)?	2	24
+FIB	"EODFNERDUG GLVFXVVLRQ ERDUGV DUH QRW YHUB SRSXODU ZLWK WKH VWXGHQWV." is encoded with a Caesar cipher. What letter shift was used (answer should be a number between 1 and 25)?	3	23
+FIB	"FPEGOFSEVH HMWGYWWMSR FSEVHW EVI RSX ZIVC TSTYPEV AMXL XLI WXYHIRXW." is encoded with a Caesar cipher. What letter shift was used (answer should be a number between 1 and 25)?	4	22
+FIB	"GQFHPGTFWI INXHZXXNTS GTFWIX FWJ STY AJWD UTUZQFW BNYM YMJ XYZIJSYX." is encoded with a Caesar cipher. What letter shift was used (answer should be a number between 1 and 25)?	5	21
+FIB	"HRGIQHUGXJ JOYIAYYOUT HUGXJY GXK TUZ BKXE VUVARGX COZN ZNK YZAJKTZY." is encoded with a Caesar cipher. What letter shift was used (answer should be a number between 1 and 25)?	6	20
+FIB	"ISHJRIVHYK KPZJBZZPVU IVHYKZ HYL UVA CLYF WVWBSHY DPAO AOL ZABKLUAZ." is encoded with a Caesar cipher. What letter shift was used (answer should be a number between 1 and 25)?	7	19
+FIB	"JTIKSJWIZL LQAKCAAQWV JWIZLA IZM VWB DMZG XWXCTIZ EQBP BPM ABCLMVBA." is encoded with a Caesar cipher. What letter shift was used (answer should be a number between 1 and 25)?	8	18
+FIB	"KUJLTKXJAM MRBLDBBRXW KXJAMB JAN WXC ENAH YXYDUJA FRCQ CQN BCDMNWCB." is encoded with a Caesar cipher. What letter shift was used (answer should be a number between 1 and 25)?	9	17
+FIB	"LVKMULYKBN NSCMECCSYX LYKBNC KBO XYD FOBI ZYZEVKB GSDR DRO CDENOXDC." is encoded with a Caesar cipher. What letter shift was used (answer should be a number between 1 and 25)?	10	16
+FIB	"MWLNVMZLCO OTDNFDDTZY MZLCOD LCP YZE GPCJ AZAFWLC HTES ESP DEFOPYED." is encoded with a Caesar cipher. What letter shift was used (answer should be a number between 1 and 25)?	11	15
+FIB	"NXMOWNAMDP PUEOGEEUAZ NAMDPE MDQ ZAF HQDK BABGXMD IUFT FTQ EFGPQZFE." is encoded with a Caesar cipher. What letter shift was used (answer should be a number between 1 and 25)?	12	14
+FIB	"OYNPXOBNEQ QVFPHFFVBA OBNEQF NER ABG IREL CBCHYNE JVGU GUR FGHQRAGF." is encoded with a Caesar cipher. What letter shift was used (answer should be a number between 1 and 25)?	13	13
+FIB	"PZOQYPCOFR RWGQIGGWCB PCOFRG OFS BCH JSFM DCDIZOF KWHV HVS GHIRSBHG." is encoded with a Caesar cipher. What letter shift was used (answer should be a number between 1 and 25)?	14	12
+FIB	"QAPRZQDPGS SXHRJHHXDC QDPGSH PGT CDI KTGN EDEJAPG LXIW IWT HIJSTCIH." is encoded with a Caesar cipher. What letter shift was used (answer should be a number between 1 and 25)?	15	11
+FIB	"RBQSAREQHT TYISKIIYED REQHTI QHU DEJ LUHO FEFKBQH MYJX JXU IJKTUDJI." is encoded with a Caesar cipher. What letter shift was used (answer should be a number between 1 and 25)?	16	10
+FIB	"SCRTBSFRIU UZJTLJJZFE SFRIUJ RIV EFK MVIP GFGLCRI NZKY KYV JKLUVEKJ." is encoded with a Caesar cipher. What letter shift was used (answer should be a number between 1 and 25)?	17	9
+FIB	"TDSUCTGSJV VAKUMKKAGF TGSJVK SJW FGL NWJQ HGHMDSJ OALZ LZW KLMVWFLK." is encoded with a Caesar cipher. What letter shift was used (answer should be a number between 1 and 25)?	18	8
+FIB	"UETVDUHTKW WBLVNLLBHG UHTKWL TKX GHM OXKR IHINETK PBMA MAX LMNWXGML." is encoded with a Caesar cipher. What letter shift was used (answer should be a number between 1 and 25)?	19	7
+FIB	"VFUWEVIULX XCMWOMMCIH VIULXM ULY HIN PYLS JIJOFUL QCNB NBY MNOXYHNM." is encoded with a Caesar cipher. What letter shift was used (answer should be a number between 1 and 25)?	20	6
+FIB	"WGVXFWJVMY YDNXPNNDJI WJVMYN VMZ IJO QZMT KJKPGVM RDOC OCZ NOPYZION." is encoded with a Caesar cipher. What letter shift was used (answer should be a number between 1 and 25)?	21	5
+FIB	"XHWYGXKWNZ ZEOYQOOEKJ XKWNZO WNA JKP RANU LKLQHWN SEPD PDA OPQZAJPO." is encoded with a Caesar cipher. What letter shift was used (answer should be a number between 1 and 25)?	22	4
+FIB	"YIXZHYLXOA AFPZRPPFLK YLXOAP XOB KLQ SBOV MLMRIXO TFQE QEB PQRABKQP." is encoded with a Caesar cipher. What letter shift was used (answer should be a number between 1 and 25)?	23	3
+FIB	"ZJYAIZMYPB BGQASQQGML ZMYPBQ YPC LMR TCPW NMNSJYP UGRF RFC QRSBCLRQ." is encoded with a Caesar cipher. What letter shift was used (answer should be a number between 1 and 25)?	24	2

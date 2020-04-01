@@ -1,0 +1,3 @@
+MC	What is the entropy of the password "passw0rd" ?	52.92	incorrect	30.76	incorrect	41.36	correct	
+MC	What is the entropy of the password "password" ?	52.26	incorrect	67.28	incorrect	37.6	correct	
+MC	What is the entropy of the password "password1" ?	70.56	incorrect	66.22	incorrect	46.53	correct	
