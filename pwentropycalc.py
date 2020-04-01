@@ -8,7 +8,7 @@ import random
 f=open("data/pwsorted_char.txt","r")
 
 # output file
-q=quizgen.quizgen('bbquestions/entropy.txt')
+q=quizgen.quizgen('entropy.txt')
 
 #setup mcq
 q.mc_setup("What is the entropy of the password \"PARAMETER\" ?")
