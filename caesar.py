@@ -7,7 +7,7 @@ import os
 f=open("data/plaintext_phrases.txt","r")
 
 # this is where our output questions will go
-q=quizgen.quizgen('bbquestions/output_caesardecode.txt')
+q=quizgen.quizgen('output_caesardecode.txt')
 
 q.fib_setup("\"PARAMETER\" is encoded with a Caesar cipher. What letter shift was used (answer should be a number between 1 and 25)?")
 
