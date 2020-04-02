@@ -11,9 +11,11 @@ containing the word PARAMETER, and then create instances of the question with
 different parameters and answers. Example:
 
 Template:
+
   quiz.fib_setup("What's the Welsh word for PARAMETER?")
 
 Instances:
+
   quiz.fib_instance(Cheese,Caws)
   quiz.fib_instance(Carrot,Moron)
 
@@ -28,9 +30,11 @@ to be the right one; the quizgen program will shuffle the answers after adding
 the correct/incorrect markers required by BlackBoard. Example:
 
 Template:
+
   quiz.mc_setup("What's the Welsh word for PARAMETER?")
 
 Instances:
+
   quiz.mc_instance("Cheese",["Caws","Moron","Tatws"])
   quiz.mc_instance("Carrot",["Moron","Caws","Tatws"])
 
