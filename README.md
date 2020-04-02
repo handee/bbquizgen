@@ -6,6 +6,8 @@ questions
 quizgen.py is the bit that does the "hard" work, containing functions for
 creating fill-in-the-blank and multiple choice questions
 
+welsh.py has examples of simple question creation
+
 For the fill-in-the-blank (FIB) questions you set up a question template
 containing the word PARAMETER, and then create instances of the question with
 different parameters and answers. Example:
